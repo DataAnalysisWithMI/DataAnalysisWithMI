@@ -23,7 +23,29 @@ When I'm not working with data, I enjoy cooking. I love the "aha!" moment when d
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
+
+ ### 🛠️ Skills & Competencies
+* **Data Analysis:** Data Cleaning, Transformation, Trend Identification, and Statistical Interpretation.
+* **Database Management:** Relational Database Design, and Complex SQL Querying.
+* **Data Visualization:** Dashboard Design, Storytelling with Data, and KPI Reporting.
+* **Soft Skills:** Logical Problem Solving, Attention to Detail, and Stakeholder Communication.
+
+
+
+### ⚙️ Technical Toolbox
+* **Databases:** SQL (MySQL)
+* **Spreadsheets:** Microsoft Excel (VLOOKUP, Pivot Tables, Power Query), Google Sheets
+* **Visualization:** Power BI, Tableau (Learning)
+
+
+---
+
+### 🎓 Education & Professional Training
+* 🎓 **MSc. Human Anatomy** | University of Dundee
+* 🎓 **TS Academy:** Data Analysis Diploma Graduate
+
+---
+
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** Building a sales forecasting model in Python.  
