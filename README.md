@@ -34,7 +34,13 @@ When I'm not working with data, I enjoy cooking. I love the "aha!" moment when d
 
 - Tableau.
 
+### 📊 Featured Data Projects
 
+#### 📈 [Sales-Performance Dashboard](https://github.com/DataAnalysisWithMI/ADESINA-FRANCESCA-SALES-PERFORMANCE-DASHBOARD)
+### ![WhatsApp Image 2026-04-12 at 5 26 37 PM](https://github.com/user-attachments/assets/d2f26181-6d0a-4457-be58-855d3b0c8187)
+* **The Insight:** With a ~20% profit margin, the business is performing well, but high COGS—especially in cities like Lagos—suggests margin improvement opportunities.
+* **Recommendations:**  Scale top-performing products and reps; Optimize high-cost locations.
+* **Tools:** Advanced Excel, Dashboard Design, KPI Tracking.
 
 #### Data Analysis & Visualization
 <p>
@@ -61,9 +67,6 @@ When I'm not working with data, I enjoy cooking. I love the "aha!" moment when d
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="DataAnalysiswithMI | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="DataAnalysiswithMI | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="@DataAnalysiswithMI | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/@DataAnalysiswithMI)
 
-
-[twitter]: https://twitter.com/FRANCESCAADESI3
-[youtube]: https://www.youtube.com/c/DataAnalysiswithMI
+[<img align="left" alt="Twitter | Francesca Adesi3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/FRANCESCAADESI3)
