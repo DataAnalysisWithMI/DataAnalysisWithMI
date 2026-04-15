@@ -64,6 +64,22 @@ When I'm not working with data, I enjoy cooking. I love the "aha!" moment when d
 * **Recommendations:**  Scale top-performing products and reps; Optimize high-cost locations.
 * **Tools:** Advanced Excel, Dashboard Design, KPI Tracking.
 
+#### 📈 [RETAIL-SALES ANALYSIS Dashboard](https://github.com/DataAnalysisWithMI/RETAIL-SALES-ANALYSIS)
+
+
+<img width="2247" height="1529" alt="image" src="https://github.com/user-attachments/assets/cec9d39b-f799-45f4-b0f0-bd8b2c5a38fc" />
+
+## 💡 Key Insights Discovered
+* **Electronics and Clothing are the top revenue drivers, contributing the highest sales compared to other product categories, showing strong customer preference for these segments.**
+* **Customers aged 36–50 and 50+ generate the most revenue, indicating that older age groups are the most valuable customer segment for the business.**
+  
+* **Sales fluctuate across the year with clear peak and low months, showing that revenue is not consistent and is influenced by seasonal demand patterns.**
+
+## 🛠️ Technical Skills Demonstrated
+* **Data Visualization:** Advanced Excel
+* **Data Transformation:** Data cleaning and modeling
+* **Business Intelligence:** Excel dashboards, pivot tables, and KPI reporting
+
 #### Data Analysis & Visualization
 <p>
 
