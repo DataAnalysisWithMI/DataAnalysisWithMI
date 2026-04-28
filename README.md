@@ -67,7 +67,7 @@ When I'm not working with data, I enjoy cooking. I love the "aha!" moment when d
 #### 📈 [RETAIL-SALES ANALYSIS Dashboard](https://github.com/DataAnalysisWithMI/RETAIL-SALES-ANALYSIS)
 
 
-<img width="2247" height="1529" alt="image" src="https://github.com/user-attachments/assets/cec9d39b-f799-45f4-b0f0-bd8b2c5a38fc" />
+<img width="840" height="724" alt="image" src="https://github.com/user-attachments/assets/cec9d39b-f799-45f4-b0f0-bd8b2c5a38fc" />
 
 ## 💡 Key Insights Discovered
 * **Electronics and Clothing are the top revenue drivers, contributing the highest sales compared to other product categories, showing strong customer preference for these segments.**
@@ -75,7 +75,7 @@ When I'm not working with data, I enjoy cooking. I love the "aha!" moment when d
   
 * **Sales fluctuate across the year with clear peak and low months, showing that revenue is not consistent and is influenced by seasonal demand patterns.**
 
-#### 📈 [Healthcare Dashboard]
+#### 📈 Healthcare Dashboard
 
 ### <img width="840" height="724" src="https://github.com/DataAnalysisWithMI/Healthcare-Dashboard/blob/main/WhatsApp%20Image%202026-04-27%20at%2010.52.01%20PM.jpeg" />
 
