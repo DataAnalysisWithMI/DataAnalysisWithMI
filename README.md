@@ -75,6 +75,22 @@ When I'm not working with data, I enjoy cooking. I love the "aha!" moment when d
   
 * **Sales fluctuate across the year with clear peak and low months, showing that revenue is not consistent and is influenced by seasonal demand patterns.**
 
+#### 📈 [Healthcare Dashboard]
+
+
+## 🎯 The Business Challenge
+Healthcare providers are experiencing increasing patient demand and rising revenue, but operational performance is not improving at the same pace. This creates pressure on hospitals, resources, and long-term sustainability.
+
+## 💡 Key Insights Discovered
+
+**Rising Demand but Stagnant Efficiency:**
+* Patient volume increased by 7% YoY, with total patients reaching 55,500
+* Billing also grew to 1.42bn
+However, the average length of stay (15.51 days) showed no improvement
+  
+  👉 This indicates inefficient patient flow and resource utilization
+
+
 ## 🛠️ Technical Skills Demonstrated
 * **Data Visualization:** Advanced Excel
 * **Data Transformation:** Data cleaning and modeling
