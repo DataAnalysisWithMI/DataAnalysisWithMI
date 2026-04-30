@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Turning+Data+into+Actionable+Insights;Power+BI" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+
 <p align="center">
   
   <a href="https://youtube.com/@DataAnalysiswithMI"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
@@ -21,7 +21,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 
 When I'm not working with data, I enjoy cooking. I love the "aha!" moment when data reveals something new and useful.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+
 ### [🏆 Check Out My Full Portfolio Website](https://DataAnalysisWithMI.github.io/)
 
  ### 🛠️ Skills & Competencies
