@@ -112,6 +112,191 @@ However, the average length of stay (15.51 days) showed no improvement
  
 </p>
 
+# 🚬 Smoking Health Risk Analysis Dashboard
+
+### Turning Healthcare Data into Meaningful Insights
+
+**Project Brand:** Data Analysis With MI  
+**Project Category:** Healthcare Data Analytics | Data Visualisation | Dashboard Development
+
+---
+
+---
+
+## 📖 Introduction
+
+Smoking remains an important public health concern because of its association with several health complications. Understanding smoking patterns across different age groups and genders can help provide useful insights into population health and potential risk factors.
+
+This project, **Smoking Health Risk Analysis Dashboard**, explores healthcare data to examine smoking habits, patient demographics and selected health indicators.
+
+The dashboard transforms raw data into interactive visualisations, making it easier to identify patterns, compare patient groups and communicate findings.
+
+The project demonstrates how data analytics can be applied to healthcare-related datasets to support better understanding and informed decision-making.
+
+## 📊 Project Overview
+
+The Smoking Health Risk Analysis Dashboard provides a visual analysis of approximately 1,600 patients.
+
+It focuses on examining:
+
+- Patient demographics, including age and gender.
+- Smoking status distribution among never, current and former smokers.
+- Smoking patterns across male and female patients.
+- Years of Smoking (YOS) across different age groups.
+- Cigarettes Per Day (CPD) across age groups.
+- Cholesterol and hypertension risk categories across age groups.
+- Average patient age and Body Mass Index (BMI).
+
+The dashboard also incorporates visual navigation through different body organs, including the heart, lungs, kidney and liver, to give the dashboard a healthcare-focused presentation.
+
+## 🎯 Problem Statement
+
+Healthcare datasets often contain large amounts of information that can be difficult to interpret when presented in raw tabular formats.
+
+Without effective analysis and visualisation, identifying patterns in smoking behaviour, comparing demographic groups and understanding the distribution of health indicators can become challenging.
+
+The challenge was to transform the available healthcare data into a structured and visually appealing dashboard that presents important metrics and makes comparisons easier.
+
+This project addresses that challenge by organising key health indicators into interactive visual components.
+
+
+## 🖥️ Dashboard Preview
+
+The dashboard provides a consolidated view of patient statistics, smoking patterns and selected health risk indicators.
+
+<img width="1929" height="1098" alt="Screenshot 2026-11-08 234302" src="https://github.com/user-attachments/assets/eacf3d19-d649-4cab-a734-d36bf4ae03a8" />
+
+*Figure 1: Smoking Health Risk Analysis Dashboard – Data Analysis With MI.*
+
+## 📈 Key Performance Indicators (KPIs)
+
+The dashboard highlights three major performance indicators:
+
+| KPI | Value | Description |
+|---|---:|---|
+| Total Patients | 1,600+ | Approximate number of patients analysed |
+| Average Age | 54.1 years | Average age of patients |
+| Average BMI | 29.8 | Average Body Mass Index |
+
+These indicators provide a quick overview of the patient population before examining the more detailed visualisations.
+
+## 🔍 Key Insights and Findings
+
+### 1. Smoking Status Distribution
+
+The analysis shows the distribution of patients across three smoking categories:
+
+| Smoking Status | Percentage |
+|---|---:|
+| Never Smoked | 44.6% |
+| Current Smokers | 29.8% |
+| Former Smokers | 25.7% |
+
+**Key Observation:**
+
+Never-smokers represent the largest category, accounting for 44.6% of the patients. Current and former smokers together account for approximately 55.5%.
+
+This provides an overview of smoking exposure within the dataset.
+
+### 2. Smoking Status by Gender
+
+The dashboard compares smoking status between male and female patients.
+
+This visualisation makes it possible to examine how smoking categories are distributed across gender groups and identify potential differences in smoking patterns.
+
+### 3. Smoking Duration and Daily Intake Across Age Groups
+
+Two important smoking indicators are examined:
+
+- **YOS (Years of Smoking):** Measures the number of years a patient has smoked.
+- **CPD (Cigarettes Per Day):** Represents the average number of cigarettes smoked daily.
+
+The line chart compares these indicators across age groups to explore variations in smoking duration and daily cigarette consumption.
+
+### 4. Cholesterol and Hypertension Risk Across Age Groups
+
+The dashboard presents cholesterol and hypertension risk categories across different age groups.
+
+Patients are grouped into three visual categories:
+
+- High Risk
+- Low Risk
+- Normal
+
+This comparison provides an overview of how the selected health indicators are distributed across the age categories.
+
+*Note: These observations describe patterns within the dataset and should not be interpreted as evidence that smoking directly caused any particular health condition.*
+
+## 🛠️ Tools and Technologies
+
+The following section documents the tools used in the project.
+
+## 🛠️ Technical Skills Demonstrated
+* **Data Visualization:** Advanced Excel
+* **Data Transformation:** Data cleaning and modeling
+* **Business Intelligence:** Excel dashboards, pivot tables, and KPI reporting
+
+*The technology details should be updated to reflect the actual tools used in developing the dashboard.*
+
+## 💡 Technical Skills Demonstrated
+
+This project demonstrates practical data analytics and visualisation skills, including:
+
+| Skill | Application |
+|---|---|
+| Data Cleaning | Preparing data for analysis |
+| Exploratory Data Analysis | Exploring patient information and identifying patterns |
+| Data Analysis | Examining smoking behaviour and health indicators |
+| Data Visualisation | Communicating findings through charts and graphs |
+| Dashboard Design | Organising multiple visualisations into one interface |
+| KPI Reporting | Highlighting important patient statistics |
+| Comparative Analysis | Comparing smoking patterns across age groups and genders |
+| Data Storytelling | Converting analytical findings into understandable insights |
+
+## 🏥 Business and Healthcare Value
+
+Healthcare data analysis can support better understanding of population health patterns.
+
+This project demonstrates how structured data visualisation can provide value in several areas:
+
+- **Health Awareness:** Helps communicate smoking patterns and selected health indicators.
+- **Population Analysis:** Provides an overview of smoking behaviour across demographic groups.
+- **Healthcare Research:** Offers a visual starting point for exploring relationships between smoking habits and health indicators.
+- **Decision Support:** Makes important information easier to access, interpret and communicate.
+- **Data-Driven Communication:** Presents healthcare information in a simplified format for different audiences.
+
+The dashboard is intended as an analytical and educational tool, not a clinical diagnostic or medical decision-making system.
+
+## ⚠️ Project Limitations
+
+A few limitations should be considered when interpreting the findings:
+
+- The analysis is based on the available dataset and its recorded variables.
+- The results may not represent the wider population.
+- The dashboard highlights distributions and associations rather than establishing causation.
+- Other factors that may influence health outcomes are not necessarily represented.
+- The accuracy of the findings depends on the quality and completeness of the source data.
+
+Further analysis using additional clinical and demographic variables would provide a more comprehensive understanding of the relationships being explored.
+
+## 📝 Conclusion
+
+The Smoking Health Risk Analysis Dashboard demonstrates how healthcare data can be transformed into meaningful visual insights.
+
+Through the analysis of smoking status, patient demographics, smoking duration, daily cigarette consumption and selected health indicators, the project provides a structured overview of patterns within the dataset.
+
+Beyond the visual presentation, this project demonstrates my ability to approach an analytical problem, organise information, interpret data and communicate findings through an accessible dashboard.
+
+**My biggest takeaway from this project is that effective data analysis goes beyond presenting numbers. It involves asking the right questions, identifying meaningful patterns and communicating insights that support informed decisions.**
+
+---
+
+
+---
+
+⭐ If you find this project interesting, feel free to explore the repository and follow my journey as I continue developing practical data analytics projects.
+
+**Data Analysis With MI – Turning Data Into Insights.**
 #### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
