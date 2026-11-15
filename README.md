@@ -15,7 +15,10 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I am a Healthcare Data Analyst with an academic background in Human Anatomy and a certification in Data Analysis. My foundation in human anatomy has developed my understanding of human biology, healthcare processes, and the importance of accurate, evidence-based information in health-related decision-making.
+
+I am passionate about transforming raw data into meaningful insights that support better understanding, operational efficiency, and informed decision-making, particularly within the healthcare sector.
+
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
