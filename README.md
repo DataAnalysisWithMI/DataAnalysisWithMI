@@ -1,4 +1,4 @@
-## Hi there, I'm Francesca Irede👋
+## Hi there, I'm Francesca👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
