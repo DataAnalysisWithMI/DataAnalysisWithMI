@@ -290,6 +290,279 @@ Beyond the visual presentation, this project demonstrates my ability to approach
 **My biggest takeaway from this project is that effective data analysis goes beyond presenting numbers. It involves asking the right questions, identifying meaningful patterns and communicating insights that support informed decisions.**
 
 ---
+# Maternal-Child-Health-Analytics
+A healthcare data analytics project using Excel and Power BI to analyse maternal health service utilisation, ANC attendance, delivery outcomes, postnatal care and childhood immunisation through interactive dashboards and KPI reporting.
+Maternal & Child Health Service Utilisation and Immunisation Analysis
+
+Author: Data Analysis with MI
+
+Tools: Microsoft Excel | Power BI | DAX
+
+Reporting Period: January – December 2025
+
+Project Type: Healthcare Data Analytics | Dashboard Development
+
+
+---
+
+Project Overview
+---
+<img width="3213" height="1851" alt="Screenshot 2026-11-15 212228" src="https://github.com/user-attachments/assets/cea2318e-504c-4f80-bb30-1834c3616734" />
+
+
+This project analyses maternal healthcare service utilisation, antenatal care (ANC) appointment attendance, delivery outcomes, postnatal care (PNC) services, and childhood immunisation records in a fictional healthcare facility.
+
+The objective was to transform raw healthcare datasets into meaningful insights through data cleaning, validation, analysis, KPI development, and interactive dashboard visualisation.
+
+The analysis aims to demonstrate how healthcare data can support operational monitoring, service utilisation assessment, and evidence-based decision-making.
+
+Note: All datasets used in this project are synthetic and created for educational and portfolio demonstration purposes. They do not contain real patient information.
+
+---
+
+Project Objectives
+---
+
+- Analyse maternal registrations and ANC service utilisation.
+- Evaluate ANC appointment attendance and missed appointments.
+- Examine maternal delivery locations and delivery modes.
+- Assess reported postnatal care follow-up within 48 hours, 7 days, and 6 weeks.
+- Analyse childhood immunisation administration, missed doses, and pending doses.
+- Identify data-quality issues and document their implications.
+- Develop an interactive Power BI dashboard for healthcare performance monitoring.
+
+---
+
+Dataset Description
+---
+
+The project uses three primary datasets:
+
+Dataset| Records| Description
+Maternal Records| 500| Maternal registration, ANC visits, delivery and PNC information
+ANC Appointments| 3,241| Scheduled antenatal appointments and attendance status
+Child Immunisation| 3,000| Immunisation records across six vaccine milestones
+
+---
+
+Tools and Technologies
+---
+
+Microsoft Excel
+
+
+- Initial data inspection and cleaning
+- Duplicate and missing-value checks
+- Data validation
+- Cross-table consistency checks
+
+Power BI Desktop
+
+
+- Data transformation using Power Query
+- Data modelling and relationship creation
+- DAX measure development
+- Interactive dashboard development
+- Data visualisation and reporting
+
+DAX
+
+
+- KPI calculations
+- Attendance and service utilisation rates
+- Date-based filtering
+- Conditional calculations and measures
+
+---
+
+Data Preparation and Quality Checks
+---
+
+Data preparation involved:
+
+
+1. Checking dataset structure and data types.
+2. Validating unique identifiers.
+3. Checking missing and blank values.
+4. Validating relationships between maternal, ANC, and child immunisation records.
+5. Checking date consistency.
+6. Identifying records outside the reporting period.
+7. Documenting data-quality findings.
+
+Key data-quality findings
+
+
+- 31 ANC appointment records had blank attendance status.
+- 27 child immunisation records had blank dose status.
+- 514 immunisation records had no administration date.
+- 35 administered doses had administration dates in January 2026 and were excluded from the 2025 administered-dose count.
+- Missing immunisation dates were retained rather than automatically imputed.
+
+These findings were documented to ensure transparency and prevent misleading interpretations.
+
+---
+
+Key Performance Indicators (KPIs)
+---
+
+Maternal and ANC Service Overview
+
+
+KPI| Result
+
+Total Mothers Registered| 500
+ANC Appointments Attended| 2,511
+ANC Attendance Rate| 85.2%
+ANC Appointments Missed| 437
+Average Completed ANC Visits| 5.51
+Facility Delivery Rate| 85.8%
+
+Patient and Postnatal Outcomes
+
+
+KPI| Result
+PNC Within 48 Hours| 68.5%
+PNC Within 7 Days| 82.1%
+PNC Within 6 Weeks| 69.5%
+
+Child Immunisation Analysis
+
+
+KPI| Result
+Total Children Registered| 500
+Administered Doses in 2025| 2,451
+Missed Doses in 2025| 314
+Pending Doses in 2025| 173
+Immunisation Administration Rate| 88.6%
+Missed Dose Rate| 11.4%
+Administered Doses Outside Reporting Period| 35
+
+Metric interpretation: ANC attendance rate uses attended and missed appointments as its denominator, excluding cancelled and blank-status records. PNC rates use records marked Yes or No, excluding unrecorded responses. The facility delivery rate excludes unrecorded delivery locations.
+
+The 2025 immunisation administration rate is calculated using administered doses in 2025 and missed doses due in 2025. Pending and blank-status records are excluded. This is a resolved-dose administration rate, not population immunisation coverage.
+
+---
+
+Power BI Dashboard
+---
+
+The dashboard contains three interactive pages.
+
+Page 1: Maternal & ANC Service Overview
+---
+
+<img width="3213" height="1851" alt="Screenshot 2026-11-15 212228" src="https://github.com/user-attachments/assets/af6d2d3d-fa3d-4dea-bacb-1be066b21310" />
+
+- Maternal registration KPIs
+- ANC appointment attendance analysis
+- Monthly ANC appointment trends
+- Delivery location distribution
+- Delivery mode distribution
+- Maternal registration by age group and parity group
+
+Page 2: Child Immunisation Analysis
+---
+<img width="3249" height="1851" alt="Screenshot 2026-11-15 212304" src="https://github.com/user-attachments/assets/b22c97de-0ecb-4187-92bd-eb62703a776f" />
+
+
+- Total children registered
+- Administered, missed and pending dose KPIs
+- Immunisation dose status by vaccine
+- 2025 administered doses by vaccine
+- Interactive vaccine slicer
+- Data-quality observations
+
+Page 3: Patient Outcomes
+---
+<img width="3060" height="1767" alt="Screenshot 2026-11-15 212336" src="https://github.com/user-attachments/assets/a76e1aed-b2c3-49f2-b0bf-7e61280c913e" />
+
+
+- Facility delivery rate
+- PNC indicators within 48 hours, 7 days and 6 weeks
+- Delivery location and delivery mode analysis
+- PNC outcome distribution
+- Interactive age group and delivery location slicers
+- Clear Filters button
+- Sidebar navigation across dashboard pages
+
+---
+
+Key Analytical Observations
+---
+
+1. ANC attendance was 85.2% among appointments classified as attended or missed.
+2. The facility delivery rate was 85.8% among records with a recorded delivery location.
+3. PNC within 7 days recorded the highest reported follow-up rate at 82.1%.
+4. PNC within 48 hours and 6 weeks recorded rates of 68.5% and 69.5%, respectively.
+5. The 2025 immunisation administration rate was 88.6% among resolved dose records.
+6. Missing and incomplete records highlight the importance of consistent healthcare documentation.
+
+These observations describe the synthetic dataset and should not be interpreted as actual facility performance.
+
+---
+
+Recommendations
+---
+
+Based on the patterns observed in the dataset:
+
+- Strengthen follow-up processes for missed ANC appointments.
+- Monitor postnatal follow-up at the different reporting intervals.
+- Improve completeness of maternal and immunisation records.
+- Investigate missed and pending immunisation doses.
+- Monitor administration dates to ensure accurate reporting-period classification.
+- Use interactive dashboards to support routine healthcare performance reviews.
+
+
+---
+
+Project Deliverables
+---
+
+- Cleaned and validated Excel dataset
+- Data dictionary and KPI documentation
+- Data-quality log
+- Power BI data model
+- Three-page interactive Power BI dashboard
+- PDF dashboard export
+- Portfolio case study documentation
+
+---
+
+Skills Demonstrated
+---
+
+- Healthcare Data Analytics
+- Data Cleaning and Validation
+- Microsoft Excel
+- Power Query
+- Power BI
+- DAX
+- Data Modelling
+- KPI Development
+- Interactive Dashboard Design
+- Data Interpretation
+- Healthcare Performance Reporting
+
+---
+
+Project Limitations
+---
+
+- The reporting period is January–December 2025, with some administered dates extending into January 2026.
+- Missing and unrecorded values were retained and excluded from relevant denominators where appropriate.
+- Immunisation administration rates should not be interpreted as population coverage.
+- The illustrative vaccine milestones are not a validation of compliance with any national immunisation schedule.
+
+---
+
+Author
+
+Data Analysis with MI
+
+Healthcare Data Analyst | Data Analytics | Power BI | Excel
+
+Turning healthcare data into meaningful insights.
 
 
 ---
