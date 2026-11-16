@@ -25,8 +25,6 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy cooking. I love the "aha!" moment when data reveals something new and useful.
 
 
-### [🏆 Check Out My Full Portfolio Website](https://DataAnalysisWithMI.github.io/)
-
  ### 🛠️ Skills & Competencies
 * **Data Analysis:** Data Cleaning, Transformation, Trend Identification, and Statistical Interpretation.
 * **Database Management:** Relational Database Design, and Complex SQL Querying.
